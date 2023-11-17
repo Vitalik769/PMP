@@ -86,6 +86,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
   scrollContainer: {
+    marginTop: 200,
     height: 300,
     alignItems: "center",
     justifyContent: "center",
